@@ -123,3 +123,9 @@ main section{
 .skill-title{
     margin: 30px 0;
 }
+
+/* resume */
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
