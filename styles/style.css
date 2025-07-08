@@ -129,3 +129,28 @@ main section{
     display: flex;
     gap: 50px;
 }
+.download-cv-btn{
+    margin-top: 30px;
+}
+
+/* footer  */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    margin-top: 130px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"], textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 22px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: none;
+    background: #FFF;
+    width: 70%;
+}
